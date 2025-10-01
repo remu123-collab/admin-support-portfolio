@@ -23,6 +23,8 @@ Demonstrates ability to prepare clear, structured, and helpful customer document
 
 Data entry & management (Excel, Google Sheets)
 
+Email & Calender Management
+
 Report generation & visualization
 
 Customer support documentation
